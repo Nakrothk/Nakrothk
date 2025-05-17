@@ -1,5 +1,5 @@
 # About Me:
-⚡ Software development, focusing on backend<br><br>⚡learning about some programming languages<br><br>
+⚡Software development, focusing on backend<br><br>⚡learning about some programming languages<br><br>
 
 
 ## 🌐 Socials:
